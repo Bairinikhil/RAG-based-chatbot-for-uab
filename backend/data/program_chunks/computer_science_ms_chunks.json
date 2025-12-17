@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "computer_science_ms",
+  "program_name": "Computer Science Ms",
+  "department_name": "Computer Science",
+  "school": "College of Arts and Sciences",
+  "degree_type": "Master of Science",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Computer Science Ms\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/computer-science-ms\nCollege of Arts & Sciences\n# Computer Science, MS\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Mahmut Unan\n[unan@uab.edu](mailto:unan@uab.edu)\n## About the Program\nYou may already feel like a computer expert, but in this program, you will find that you have more to learn about big data, cyber security, mobile applications, and other trending topics related to software engineering, analytical, database and other careers.\nThis program is open to students with a bachelor’s degree in computer science or a related field, such as engineering. There are computer science and math prerequisites necessary for this degree. Once they're done, you'll have 30 hours of coursework to do, which can be finished in 18 months if you're in school full time. You'll take classes such as Database Systems, Network Security, Artificial Intelligence, and Machine Learning. We'll also ask you to choose between two plan options, depending on what your goals are for your future. If you want to do research, continue your graduate studies, or pursue a professional program, you should pick Plan I (thesis option). For those interested in transitioning to the computer science field, Plan II (non-thesis option) is better. Your coursework here will include specializations in bioinformatics, computer graphics, and distributed computing.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Mahmut Unan\n[unan@uab.edu](mailto:unan@uab.edu)\n[Apply Now](https://cloud.reach.uab.edu/graduate-application \"Opens in new tab.\")\n# M.S. in Computer Science (MSCS)\nThe MSCS program is designed to provide advanced study opportunities for individuals who:\n- hold a bachelor's degree in Computer Science and would like to advance their technical knowledge in the field and/or learn about research in Computer Science,\n- hold a bachelor's degree in another field and want to make a career transition to the computing field, or\n- currently work in the computing field and wish to obtain a graduate degree for career advancement\n## Program Basics and Timeline\n![Female student in glasses at a laptop. ](https://www.uab.edu/cas/computerscience/images/Images/Misc_Images/StudentAtComputer.jpg)The MSCS program consists of 30 hours and can be completed in 1.5 years by full-time students who have already fulfilled the [program prerequisites](https://www.uab.edu/cas/computerscience/graduate-programs/masters-programs/mscs/mscs-prerequisites). Thesis and non-thesis options are available.\nPreviously earned graduate credit with a grade of B or above while enrolled at another regionally accredited graduate school may be eligible for transfer into the student's current degree program if it has not been applied toward another degree (either at UAB or elsewhere). All transfer credit requests must be initiated by the student and require the approval of the graduate program director and the Graduate School. Transfer of Credit forms are available on the Graduate School website. Completion of this form does not guarantee that the transfer credit will be granted. No more than 12 semester hours of graduate credit can be transferred to UAB. Once transfer credit has been approved, it will be included in the calculation of the grade point average in the student's current UAB program.\n[Read more about program requirements](https://www.uab.edu/cas/computerscience/graduate-programs/masters-programs/mscs/mscs-requirements)\n## Questions About the Program?\nWe invite you to explore the resources here on this website. If you still have questions that are not addressed here, please contact the graduate program director at csgradprogram@uab.edu.\n[Apply Now](https://cloud.reach.uab.edu/graduate-application \"Opens in new tab.\")\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "computer_science_ms_program_website.txt",
+    "computer_science_ms_main_page.md"
+  ]
+}

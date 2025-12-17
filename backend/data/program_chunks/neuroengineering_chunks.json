@@ -1,0 +1,31 @@
+{
+  "program_abbreviation": "neuroengineering",
+  "program_name": "Neuroengineering Phd",
+  "department_name": "Engineering",
+  "school": "School of Engineering",
+  "degree_type": "Doctor of Philosophy",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Neuroengineering Phd\n\n## Program Overview\n\nGrad Degree Offered Info\nDegrees Offered\nWebsite\nwww.uab.edu/engineering/home/neuroengineering\nProgram Co-Director, Engineering\nJamie Tyler, PhD\nProgram Co-Director, Medicine\nMark Bolding, PhD\nProgram Manager\nKristy Barlow, MPA\nE-mail\nneuroeng@uab.edu\nAdmissions Requirements\nBS, MS, or be currently enrolled in the DMD/PhD or MD/PhD program at UAB*\nMinimum GPA of 3.0 on a 4.0 scale on most recent degree\nGRE is not required\nPersonal statement identifying research interest\nCV/Résumé\n3 academic or professional recommendations\nInternational applicants must submit English proficiency scores in accordance with UAB Graduate School requirement.\nClick here for details\nOriginal transcripts from all colleges and universities attended since high school must be sent directly to the UAB Graduate School (detailed instructions are included during the online application process)\n* PhD students normally have earned a bachelor's degree in an engineering discipline or a closely-related field. Students with undergraduate degrees in the computer science, neuroscience, physical sciences, life sciences, or mathematics will also be considered for admission; however, such students must demonstrate preparation for the NE graduate curriculum.\nAdmission to the NE PhD program is competitive.\nStudents admitted to the doctoral program typically receive a competitive stipend that includes payment of tuition.\nIn addition to completing coursework requirements (see below), doctoral students must form a Graduate Dissertation Committee consisting of at least five faculty members, including the primary research mentor. At least one committee member must have a primary appointment in the School of Engineering and one must have a primary appointment in the School of Medicine. A written dissertation proposal must be orally presented to the committee and approved, at which time the student is admitted to candidacy. Admission to Candidacy must take place at least two semesters before the student may graduate. A written dissertation embodying the results of the student’s original research must then be publicly defended, approved by the committee, and submitted to the Graduate School.\nPublication Requirement. Original peer-reviewed research articles in reputable journals are the standard for demonstrating scientific productivity. The research conducted by NE doctoral students is expected to result in such publications. Before their degree is awarded, students are required to have at least one “first-author” journal article that has been published (or accepted for publication) and a second that has been submitted to a journal. Typically, a student’s\ndoctoral research will result in at least three first-author articles. Many students will be co-authors on collaborative research articles and may also share authorship on review articles, book chapters, conference proceedings, and other forms of scientific communication. Although these works bolster the student’s scientific credentials, they do not count toward the NE publication requirement. In some cases, first-authorship of an article is shared among multiple individuals. In these cases, the article may count toward the publication requirement of only one doctoral student.\nAdditional Academic Policies\nSpecial Topics courses and independent/individual study courses are reviewed for degree applicability to the degree. No more than 6 combined hours of Special Topics and/or Independent Study courses will be applied to the Neuroengineering PhD without appeal to and approval from the Program Directors.\nUAB offers similar courses at the 400/500 and 600/700 levels. While the higher numbered course has more advanced content, there is a significant overlap in topics. Therefore, students are not allowed to take a 500-level or 700-level course for credit if they have previously taken the related 400-level or 600-level course, respectively.\n\n",
+      "priority": 1,
+      "source_sections": [
+        "phd_overview_section"
+      ]
+    },
+    {
+      "info_type": "degree_requirements",
+      "chunk_text": "# Neuroengineering Phd\n\n## Doctoral Program Information\n\nPh.D. in Neuroengineering\nRequirements\nHours\nGRD 717\nPrinciples of Scientific Integrity\nIDNE 701\nTopics in Neuroengineering I\nIDNE 702\nTopics in Neuroengineering II\nIDNE 720\nApplications in Data Science\nIDNE 796\nNeuroengineering Journal Club\nBST 621\nStatistical Methods I\nGRD 770\nIntro to Biostats\nBST 622\nStatistical Methods II\nBME 717\nEngineering Analysis\nME 761\nMath Methods in EGR I\nNBL 655\nSynapses, Neurons and Brains\nNBL 656\nFrom Systems to Cog Neuro\nEGR/CS Elective\nNS/LS Elective\nOther Electives\nIDNE 773\nLab Rotation\nIDNE 798\nNon-Dissertation Research\nIDNE 799\nDissertation Research\nTotal Hours\nStudents must register for a minimum of 6 semesters; may also select another 700-level 1 hour Journal Club with Program Director approval.\nChoose one from the following:\nCS 757\nCS 760\nCS 767\nCS 773\nCS 775\nCS 785\nEE 621\nEE 641\nEE 734\nEE 738\nEE 756\nEE 758\nME 665\nChoose one from the following:\nGBS 714\nGBSC 744\nGBSC 718\nGBSC 721\nNBL 700\nNBL 707\nNBL 735\nNBL 740\nNBL 743\nPY 707\nPY 693\nVIS 743\nVIS 756\nVIS 757\nChoose three from the following:\nGBS 714\nGBS 722\nGBSC 744\nGBSC 718\nNBL 740\nNBL 743\nPY 707\nVIS 743\nVIS 756\nVIS 757\nCS 760\nCS 767\nCS 773\nCS 775\nCS 785\nEE 621\nEE 641\nEE 734\nEE 738\nEE 756\nEE 758\nME 665\nBST 623\nBST 660\nBST 680\nBST 723\nStudents who were not admitted directly into a lab ma register for a maximum of 4 rotations.\n\n",
+      "priority": 2,
+      "source_sections": [
+        "phd_phd_section"
+      ]
+    }
+  ],
+  "total_chunks": 2,
+  "source_files": [
+    "neuroengineering_phd_overview_section.txt",
+    "neuroengineering_phd_phd_section.txt"
+  ]
+}

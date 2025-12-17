@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "cybersecurity_management_gc",
+  "program_name": "Cybersecurity Management Gc",
+  "department_name": "Management",
+  "school": "Collat School of Business",
+  "degree_type": "Master of Arts",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Cybersecurity Management Gc\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/cybersecurity-management-gc\nCollat School of Business\n# Cybersecurity Management\nDegree Type:\nGraduate Certificate\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Sam Goh\n[sgoh@uab.edu](mailto:sgoh@uab.edu)\n## About the Program\nAs more of our confidential information goes online, we need cybersecurity managers like you to defend our networks and safeguard access. At UAB we can teach you how to help protect your organization and increase your value in the workforce.\nWe’ve designed the cybersecurity management certificate to cover topics that we consider essential to making you an expert in the field: strategic planning, security threat surveillance, incident response, and learning from mistakes through forensics. You’ll cover those topics in the five courses we require to complete the certificate: Principles of Cybersecurity, Information Security Management, Cyber Attacks and Threat Mitigation, Incident Response and Business Continuity, and Digital Forensics. Upon completion of the program, you should have a solid understanding of cybersecurity and the role it plays in today’s environment.\n## Delivery Method\n### 100% Online\nThis program can be taken completely online.\n[## Program Director\nDr. Sam Goh\n[sgoh@uab.edu](mailto:sgoh@uab.edu)\n[Collat School of Business](https://www.uab.edu/business/home)\n[Apply](https://www.uab.edu/business/home/admissions)\nVisit\n[Contact](https://www.uab.edu/business/home/about/contact-us)\n[Give](https://www.uab.edu/business/home/about/give)\n# Cybersecurity Management\nGraduate Certificate\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "cybersecurity_management_gc_program_website.txt",
+    "cybersecurity_management_gc_main_page.md"
+  ]
+}

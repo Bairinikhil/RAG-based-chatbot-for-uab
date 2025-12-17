@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "biomedical_engineering_msbme",
+  "program_name": "Biomedical Engineering Msbme",
+  "department_name": "Engineering",
+  "school": "School of Engineering",
+  "degree_type": "Master of Science",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Biomedical Engineering Msbme\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/biomedical-engineering-msbme\nSchool of Engineering / Heersink School of Medicine\n# Biomedical Engineering, MSBME\nDegree Type:\nMSBME\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Ho-Wook Jun\n[hwjun@uab.edu](mailto:hwjun@uab.edu)\n## About the Program\nWhen health care and engineering come together, a whole new world of medical treatment possibilities opens up. Graduates of our biomedical engineering program create unique innovations in health-care delivery, medical devices, biomedical imaging, instrumentation, and beyond.\nTo prepare you for your career or a doctoral program, we want research to be a big part of your education. That's why your courses will be selected in consultation with a thesis advisor and approved by the biomedical engineering graduate program committee. As part of your curriculum, you'll learn about topics such as engineering analysis, statistical methods, and quantitative physiology, while you research areas like biomedical imaging, biomedical implants and devices, cardiac electrophysiology, multi-scale computational modeling, tissue engineering, and regenerative medicine. In the end, you'll present your research at a scientific or technical conference and publish at least one peer-reviewed manuscript.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Ho-Wook Jun\n[hwjun@uab.edu](mailto:hwjun@uab.edu)\n# Master of Science in Biomedical Engineering (MSBME) Program\nThe MSBME is a researched-based degree that prepares you for entry into the doctoral program, biomedical industry, or professional schools. The program's primary research areas are:\n- ![A student conducting research to sustain livers in a bioreactor for future drug testing. ](https://www.uab.edu/engineering/bme/images/photos/students/LindsayMiller.jpg)Lindsay Miller in Dr. Berry's laboratory, conducting research to sustain livers in a bioreactor for future drug testing. biomedical imaging,\n- biomedical implants and devices,\n- cardiac electrophysiology,\n- multiscale computational modeling,\n- tissue engineering, and\n- regenerative medicine.\nOther research opportunities are available through our ongoing collaborations with the UAB Medical and Dental schools.\nPlease see the [Graduate Catalog](http://catalog.uab.edu/graduate/schoolofengineering/biomedical/) for a listing of requirements to complete the program.\n## Career Paths\nWith the terminal degree, employment is often found in health-care delivery, medical devices, pharmaceuticals, biomedical imaging, instrumentation, medical sales and marketing, regulatory agencies, or computer application groups. Our graduates have found employment in research positions, the biomedical industry, and federal agencies.\n## Research\nResearch is at the center of the Department of Biomedical Engineering. Our mission is to improve health care by making scientific discoveries, solving problems, and advancing technology using quantitative methods. [Read more about our facilities and learn about research being conducted by the department](https://www.uab.edu/engineering/bme/research).\n## Certificate in Technology Commercialization and Entrepreneurship\nThe department offers a Certificate in Technology Commercialization and Entrepreneurship as part of the MSBME program. This is a unique graduate training program featuring collaboration between BME and the UAB Collat School of Business. Biomedical engineering principles are blended with business-modeplanning in an effort to equip you with the skills to not only become a scientist and researcher, but also a business professional. BME students partner with MBA students to turn biomedical devices into commercial successes that are marketed worldwide.\n[Contact Us](https://www.uab.edu/engineering/bme/contact-us \"Contact Us\")\nContact Us\n[Apply Now](https://cloud.reach.uab.edu/graduate-application \"Apply Now\")\nApply Now\n[Why UAB?](https://uab.edu/students/admissions/why-uab \"Why UAB?\")\nWhy UAB?\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "biomedical_engineering_msbme_program_website.txt",
+    "biomedical_engineering_msbme_main_page.md"
+  ]
+}

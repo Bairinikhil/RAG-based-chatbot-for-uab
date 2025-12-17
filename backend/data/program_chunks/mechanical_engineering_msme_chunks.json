@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "mechanical_engineering_msme",
+  "program_name": "Mechanical Engineering Msme",
+  "department_name": "Engineering",
+  "school": "School of Engineering",
+  "degree_type": "Master of Science",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Mechanical Engineering Msme\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/mechanical-engineering-msme\nSchool of Engineering\n# Mechanical Engineering\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Roy Koomullil\n[rkoomul@uab.edu](mailto:rkoomul@uab.edu)\n## About the Program\nAs a mechanical engineer, the devices you design are critical to our modern economy and future innovation. A master’s degree can help you learn advanced engineering methods and give you research opportunities.\nWe've developed a research-intensive curriculum, with unique hands-on experiences and mentorship from our faculty. As you earn your degree, you'll have the option of choosing a path with or without a thesis. With a thesis, you’ll take more mathematics courses, which can be beneficial if you want to pursue a doctoral degree. If you'd rather do a research or design project, you can do so with an emphasis in research/design or technology/engineering management. No matter what you choose, you will have an opportunity to explore a number of research areas.\n### Concentrations\n- Engineering Management Emphasis\n- Research Design\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Roy Koomullil\n[rkoomul@uab.edu](mailto:rkoomul@uab.edu)\n# Graduate\n# Graduate Program\n![Students at working in front of School of Engineering sign.](https://www.uab.edu/engineering/mme/images/images/graduate/students-at-MPAD.jpg)The Department of Mechanical and Materials Engineering at UAB offers a variety of opportunities to conduct cutting-edge research in the fields of mechanical engineering as well as in a variety of materials science interests, such as metals and alloys, polymers and composites, biomaterials and healthcare materials and devices, ceramics and glass, and nanomaterials for a wide array of applications. The MME Department offers:\n- [The fast-track Master's in Materials Engineering](https://www.uab.edu/engineering/mme/undergraduate/5th-year-program)\n- [The fast-track Master's in Mechanical Engineering](https://www.uab.edu/engineering/mme/graduate/5th-year-mechanical)\n- [The Master of Science in Materials Engineering](https://www.uab.edu/engineering/mme/graduate/ms-materials)\n- [The Master of Science in Mechanical Engineering](https://www.uab.edu/engineering/mme/graduate/ms-mechanical)\n- [The Ph.D. program in Materials Engineering](https://www.uab.edu/engineering/mme/graduate/phd-program)\n- [The Tri-campus Materials Science Ph.D. program](https://www.uab.edu/engineering/mme/graduate/tri-campus-phd-program)\n- [The Ph.D. program in Mechanical Engineering](https://www.uab.edu/engineering/mme/graduate/phd-mechanical-engineering)\nResearch Assistantships, UAB scholarships, and fellowships are generally available for those pursuing graduate study. Contact Materials Graduate Program Director Dr. Vinoy Thomas at [vthomas@uab.edu](mailto:vthomas@uab.edu) or Mechanical Graduate Program Director David Littlefield at [littlefield@uab.edu](mailto:littlefield@uab.edu) for details. You are encouraged to communicate with the individual faculty member for the research opportunities.\nIn addition to the programs listed above, UAB also offers a [Master of Engineering degree with a concentration in Advanced Safety and Engineering Management](https://www.uab.edu/asem). This fully online program is designed for working, full-time professionals. Courses have synchronous and asynchronous components, but there are no on-campus requirements. [Learn more](https://www.uab.edu/engineering/asem/).\n[Start Your Application](https://cloud.reach.uab.edu/graduate-application)\n* * *\n* * *\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "mechanical_engineering_msme_program_website.txt",
+    "mechanical_engineering_msme_main_page.md"
+  ]
+}

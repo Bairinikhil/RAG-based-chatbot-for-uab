@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "business_administration_mba",
+  "program_name": "Business Administration Mba",
+  "department_name": "Business",
+  "school": "Collat School of Business",
+  "degree_type": "Master of Business Administration",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Business Administration Mba\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/business-administration-mba\nCollat School of Business\n# Business Administration\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nBrandon Cox, Graduate Recruiter\n[bcc@uab.edu](mailto:bcc@uab.edu)\n## About the Program\nInterested in moving up the ladder quickly—maybe even one day becoming CEO? Then enroll in our MBA program. We'll prepare you for a leadership role in business, industry, government, or social services.\nWe’ll teach you how to make strategic business decisions by adapting to changes in the organizational environment and using sophisticated analytical techniques. We'll do this in a variety of ways. First, we've created a diverse environment. Your classmates will vary in age, backgrounds, and nationalities, and they'll bring different perspectives and present a broad spectrum of business problems. Second, you'll have access to executives in Birmingham's central business district, the epicenter of entrepreneurship and innovation in Alabama. Finally, we've made our program flexible to fit your needs. You can take our entire curriculum either online or on campus, and we offer both one- and two-year-plans of study. Best of all, you can coordinate your degree with the UAB schools of Engineering, Dentistry, Medicine, Public Health, Optometry, or Health Professions.\n### Concentrations\n- Marketing\n- Finance\n- Management Information Systems\n- Health Services\n- Entrepreneurship\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n### 100% Online\nThis program is offered in the following formats:\nSelf-Paced \\- Pursue your degree at your own pace by\nselecting from course offerings in our new state-of-the-art facility and/or online.\nEnhanced Online with Premium \\- Earn your degree 100% online with a structured program offering guaranteed seating and\naccelerated courses with a tuition premium.\n[## Program Director\nBrandon Cox, Graduate Recruiter\n[bcc@uab.edu](mailto:bcc@uab.edu)\n[Collat School of Business](https://www.uab.edu/business/home)\n[Apply](https://www.uab.edu/business/home/admissions)\nVisit\n[Contact](https://www.uab.edu/business/home/about/contact-us)\n[Give](https://www.uab.edu/business/home/about/give)\n# Master of Business Administration (MBA) Program\nGraduate Degree\nResources\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "business_administration_mba_program_website.txt",
+    "business_administration_mba_main_page.md"
+  ]
+}

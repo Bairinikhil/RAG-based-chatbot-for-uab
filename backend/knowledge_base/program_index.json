@@ -1,0 +1,2426 @@
+[
+  {
+    "program_name": "Accounting Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Accounting",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/accounting-bs"
+  },
+  {
+    "program_name": "Accounting Cert",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor's Degree",
+    "department": "Accounting",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/accounting-cert"
+  },
+  {
+    "program_name": "African American Studies Ba",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Arts",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/african-american-studies-ba"
+  },
+  {
+    "program_name": "Anthropology Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Anthropology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/anthropology-ba"
+  },
+  {
+    "program_name": "Art Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Art",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/art-ba"
+  },
+  {
+    "program_name": "Art Bfa",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Fine Arts",
+    "department": "Art",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/art-bfa"
+  },
+  {
+    "program_name": "Biobehavioral Nutrition Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Nutrition",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/biobehavioral-nutrition-bs"
+  },
+  {
+    "program_name": "Bioinformatics Bs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Science",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/bioinformatics-bs"
+  },
+  {
+    "program_name": "Biology Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Biology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/biology-bs"
+  },
+  {
+    "program_name": "Biomedical Engineering Bsbme",
+    "school": "School of Engineering",
+    "degree_type": "Bachelor of Science",
+    "department": "Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/biomedical-engineering-bsbme"
+  },
+  {
+    "program_name": "Biomedical Sciences Bs",
+    "school": "School of Health Professions",
+    "degree_type": "Bachelor of Science",
+    "department": "Biomedical Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/biomedical-sciences-bs"
+  },
+  {
+    "program_name": "Cancer Biology Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Biology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/cancer-biology-bs"
+  },
+  {
+    "program_name": "Chemistry Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Chemistry",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/chemistry-bs"
+  },
+  {
+    "program_name": "Chhs Bs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Science",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/chhs-bs"
+  },
+  {
+    "program_name": "Civil Engineering Bsce",
+    "school": "School of Engineering",
+    "degree_type": "Bachelor of Science",
+    "department": "Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/civil-engineering-bsce"
+  },
+  {
+    "program_name": "Communication Studies Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Communication",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/communication-studies-ba"
+  },
+  {
+    "program_name": "Computer Science Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Computer Science",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/computer-science-ba"
+  },
+  {
+    "program_name": "Computer Science Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Computer Science",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/computer-science-bs"
+  },
+  {
+    "program_name": "Criminal Justice Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Criminal Justice",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/criminal-justice-bs"
+  },
+  {
+    "program_name": "Dental Assisting Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/dental-assisting-cert"
+  },
+  {
+    "program_name": "Digital Forensics Bs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Science",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/digital-forensics-bs"
+  },
+  {
+    "program_name": "Disability Rehab Bs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Science",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/disability-rehab-bs"
+  },
+  {
+    "program_name": "Early Childhood And Elementary Education Bs",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Education",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/early-childhood-and-elementary-education-bs"
+  },
+  {
+    "program_name": "Early Childhood Education Bs",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Education",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/early-childhood-education-bs"
+  },
+  {
+    "program_name": "Economics Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Economics",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/economics-bs"
+  },
+  {
+    "program_name": "Electrical and Computer Engineering",
+    "school": "School of Engineering",
+    "degree_type": "Bachelor of Science",
+    "department": "Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/electrical-engineering-bsee"
+  },
+  {
+    "program_name": "Elementary Education Bs",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Education",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/elementary-education-bs"
+  },
+  {
+    "program_name": "Engineering Design Bse",
+    "school": "School of Engineering",
+    "degree_type": "Bachelor of Science",
+    "department": "Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/engineering-design-bse"
+  },
+  {
+    "program_name": "English Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "English",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/english-ba"
+  },
+  {
+    "program_name": "Entrepreneurship Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Entrepreneurship",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/entrepreneurship-bs"
+  },
+  {
+    "program_name": "Esports Management Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Management",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/esports-management-bs"
+  },
+  {
+    "program_name": "Esports Performance Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/esports-performance-cert"
+  },
+  {
+    "program_name": "Finance Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Finance",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/finance-bs"
+  },
+  {
+    "program_name": "Foreign Languages Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Foreign Languages",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/foreign-languages-ba"
+  },
+  {
+    "program_name": "General Studies Bgs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of General Studies",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/general-studies-bgs"
+  },
+  {
+    "program_name": "Ggs Bs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Science",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/ggs-bs"
+  },
+  {
+    "program_name": "Health Care Management Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Management",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/health-care-management-bs"
+  },
+  {
+    "program_name": "High School Education Bs",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Education",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/high-school-education-bs"
+  },
+  {
+    "program_name": "History Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "History",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/history-ba"
+  },
+  {
+    "program_name": "Hr Management Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Management",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/hr-management-bs"
+  },
+  {
+    "program_name": "Human Rights Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Human Rights",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/human-rights-ba"
+  },
+  {
+    "program_name": "Immunology Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Immunology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/immunology-bs"
+  },
+  {
+    "program_name": "Industrial Distribution Bs",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Science",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/industrial-distribution-bs"
+  },
+  {
+    "program_name": "Information Systems Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Information Systems",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/information-systems-bs"
+  },
+  {
+    "program_name": "Infosys Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/infosys-cert"
+  },
+  {
+    "program_name": "International Studies Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "International Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/international-studies-ba"
+  },
+  {
+    "program_name": "Interprofessional Nonprofit Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/interprofessional-nonprofit-cert"
+  },
+  {
+    "program_name": "Kinesiology Bs",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Kinesiology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/kinesiology-bs"
+  },
+  {
+    "program_name": "Lgbtq Health Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/lgbtq-health-cert"
+  },
+  {
+    "program_name": "Management Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Management",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/management-bs"
+  },
+  {
+    "program_name": "Marketing Bs",
+    "school": "Collat School of Business",
+    "degree_type": "Bachelor of Science",
+    "department": "Marketing",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/marketing-bs"
+  },
+  {
+    "program_name": "Materials Engineering Bsmte",
+    "school": "School of Engineering",
+    "degree_type": "Bachelor of Science",
+    "department": "Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/materials-engineering-bsmte"
+  },
+  {
+    "program_name": "Mathematics Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Mathematics",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/mathematics-bs"
+  },
+  {
+    "program_name": "Mechanical Engineering Bsme",
+    "school": "School of Engineering",
+    "degree_type": "Bachelor of Science",
+    "department": "Engineering",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/mechanical-engineering-bsme"
+  },
+  {
+    "program_name": "Medical Sociology Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Sociology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/medical-sociology-bs"
+  },
+  {
+    "program_name": "Mental Health Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/mental-health-cert"
+  },
+  {
+    "program_name": "Music Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Music",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/music-ba"
+  },
+  {
+    "program_name": "Musical Theatre Bfa",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Fine Arts",
+    "department": "Music",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/musical-theatre-bfa"
+  },
+  {
+    "program_name": "Neuroscience Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Neuroscience",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/neuroscience-bs"
+  },
+  {
+    "program_name": "Nursing Bsn",
+    "school": "School of Health Professions",
+    "degree_type": "Bachelor of Science",
+    "department": "Nursing",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/nursing-bsn"
+  },
+  {
+    "program_name": "Nutrition Dietetics Cert",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor's Degree",
+    "department": "Nutrition",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/nutrition-dietetics-cert"
+  },
+  {
+    "program_name": "Organizational Comm Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/organizational-comm-cert"
+  },
+  {
+    "program_name": "Organizational Leadership Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/organizational-leadership-cert"
+  },
+  {
+    "program_name": "Philosophy Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Philosophy",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/philosophy-ba"
+  },
+  {
+    "program_name": "Physics Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Physics",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/physics-bs"
+  },
+  {
+    "program_name": "Political Science Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Political Science",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/political-science-ba"
+  },
+  {
+    "program_name": "Pre Dentistry",
+    "school": "School of Health Professions",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/pre-dentistry"
+  },
+  {
+    "program_name": "Pre Law",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/pre-law"
+  },
+  {
+    "program_name": "Pre Medicine",
+    "school": "School of Health Professions",
+    "degree_type": "Bachelor's Degree",
+    "department": "Medicine",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/pre-medicine"
+  },
+  {
+    "program_name": "Pre Optometry",
+    "school": "School of Health Professions",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/pre-optometry"
+  },
+  {
+    "program_name": "Professional Sales Certificate",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/professional-sales-certificate"
+  },
+  {
+    "program_name": "Psychology Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Psychology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/psychology-bs"
+  },
+  {
+    "program_name": "Public Health Bs",
+    "school": "School of Health Professions",
+    "degree_type": "Bachelor of Science",
+    "department": "Public Health",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/public-health-bs"
+  },
+  {
+    "program_name": "Public History Cert",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor's Degree",
+    "department": "History",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/public-history-cert"
+  },
+  {
+    "program_name": "Real Estate Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/real-estate-cert"
+  },
+  {
+    "program_name": "Social Media Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/social-media-cert"
+  },
+  {
+    "program_name": "Social Research Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/social-research-cert"
+  },
+  {
+    "program_name": "Social Work Bssw",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Social Work",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/social-work-bssw"
+  },
+  {
+    "program_name": "Sociology Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Sociology",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/sociology-ba"
+  },
+  {
+    "program_name": "Spanish For Specific Purposes Certificate",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/spanish-for-specific-purposes-certificate"
+  },
+  {
+    "program_name": "Theatre Ba",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Arts",
+    "department": "Theatre",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/theatre-ba"
+  },
+  {
+    "program_name": "Undeclared",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/undeclared"
+  },
+  {
+    "program_name": "Wellness Design Cert",
+    "school": "Graduate School",
+    "degree_type": "Bachelor's Degree",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/wellness-design-cert"
+  },
+  {
+    "program_name": "Writing Media Ba",
+    "school": "Graduate School",
+    "degree_type": "Bachelor of Arts",
+    "department": "General Studies",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/writing-media-ba"
+  },
+  {
+    "program_name": "Nutrition Bs",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Bachelor of Science",
+    "department": "Nutrition",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/undergraduate/nutrition-bs"
+  },
+  {
+    "program_name": "Academic Advising Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/academic-advising-gc"
+  },
+  {
+    "program_name": "Accounting Mac",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Arts",
+    "department": "Accounting",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/accounting-mac"
+  },
+  {
+    "program_name": "Addictions Nursing Gc",
+    "school": "School of Health Professions",
+    "degree_type": "Graduate Certificate",
+    "department": "Nursing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/addictions-nursing-gc"
+  },
+  {
+    "program_name": "Administration Health Services Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/administration-health-services-phd"
+  },
+  {
+    "program_name": "Ai Health Services Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ai-health-services-gc"
+  },
+  {
+    "program_name": "Ai Medicine Gc",
+    "school": "School of Health Professions",
+    "degree_type": "Graduate Certificate",
+    "department": "Medicine",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ai-medicine-gc"
+  },
+  {
+    "program_name": "Ai Medicine Ms",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "Medicine",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ai-medicine-ms"
+  },
+  {
+    "program_name": "Anatomical Science Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/anatomical-science-ms"
+  },
+  {
+    "program_name": "Aphr Ma",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/aphr-ma"
+  },
+  {
+    "program_name": "Applied Bst Epi Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/applied-bst-epi-gc"
+  },
+  {
+    "program_name": "Applied Mathematics Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Mathematics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/applied-mathematics-phd"
+  },
+  {
+    "program_name": "Art History Ma",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Arts",
+    "department": "History",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/art-history-ma"
+  },
+  {
+    "program_name": "Arts Education Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/arts-education-maed"
+  },
+  {
+    "program_name": "Behavioral Neuroscience Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Neuroscience",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/behavioral-neuroscience-ms"
+  },
+  {
+    "program_name": "Behavioral Neuroscience Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Neuroscience",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/behavioral-neuroscience-phd"
+  },
+  {
+    "program_name": "Biology Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Biology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biology-ms"
+  },
+  {
+    "program_name": "Biology Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Biology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biology-phd"
+  },
+  {
+    "program_name": "Biomed Health Informatics Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Health Informatics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biomed-health-informatics-phd"
+  },
+  {
+    "program_name": "Biomedical And Health Sciences Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Biomedical Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biomedical-and-health-sciences-ms"
+  },
+  {
+    "program_name": "Biomedical Engineering Msbme",
+    "school": "School of Engineering",
+    "degree_type": "Master of Science",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biomedical-engineering-msbme"
+  },
+  {
+    "program_name": "Biomedical Engineering Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biomedical-engineering-phd"
+  },
+  {
+    "program_name": "Bioms Maed",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/bioms-maed"
+  },
+  {
+    "program_name": "Biostatistics Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biostatistics-ms"
+  },
+  {
+    "program_name": "Biostatistics Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biostatistics-phd"
+  },
+  {
+    "program_name": "Biotechnology Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biotechnology-ms"
+  },
+  {
+    "program_name": "Biotechnology Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biotechnology-phd"
+  },
+  {
+    "program_name": "Biotechnology Regulatory Affairs Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/biotechnology-regulatory-affairs-gc"
+  },
+  {
+    "program_name": "Bsb Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/bsb-phd"
+  },
+  {
+    "program_name": "Business Administration Mba",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Business Administration",
+    "department": "Business",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/business-administration-mba"
+  },
+  {
+    "program_name": "Business Analytics Gc",
+    "school": "Collat School of Business",
+    "degree_type": "Graduate Certificate",
+    "department": "Business",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/business-analytics-gc"
+  },
+  {
+    "program_name": "Cancer Biology Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Biology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cancer-biology-phd"
+  },
+  {
+    "program_name": "Chemistry Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Chemistry",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/chemistry-ms"
+  },
+  {
+    "program_name": "Chemistry Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Chemistry",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/chemistry-phd"
+  },
+  {
+    "program_name": "Chhs Maed",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/chhs-maed"
+  },
+  {
+    "program_name": "Civil Engineering Msce",
+    "school": "School of Engineering",
+    "degree_type": "Master of Science",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/civil-engineering-msce"
+  },
+  {
+    "program_name": "Civil Engineering Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/civil-engineering-phd"
+  },
+  {
+    "program_name": "Clinical Exercise Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/clinical-exercise-gc"
+  },
+  {
+    "program_name": "Clinical Informatics Gc",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/clinical-informatics-gc"
+  },
+  {
+    "program_name": "Clinical Medical Social Work Msw",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Social Work",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/clinical-medical-social-work-msw"
+  },
+  {
+    "program_name": "Clinical Research Mgmt Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/clinical-research-mgmt-gc"
+  },
+  {
+    "program_name": "Cls Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cls-ms"
+  },
+  {
+    "program_name": "Cmdb Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cmdb-phd"
+  },
+  {
+    "program_name": "Cmh Counseling Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Counseling",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cmh-counseling-gc"
+  },
+  {
+    "program_name": "Coaching Intercollegiate Athlete Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coaching-intercollegiate-athlete-gc"
+  },
+  {
+    "program_name": "Communication Management Ma",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Arts",
+    "department": "Communication",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/communication-management-ma"
+  },
+  {
+    "program_name": "Community Hlth Promo Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/community-hlth-promo-phd"
+  },
+  {
+    "program_name": "Computed Tomography Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/computed-tomography-gc"
+  },
+  {
+    "program_name": "Computer Engineering Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/computer-engineering-phd"
+  },
+  {
+    "program_name": "Computer Forensics Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Computer Science",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/computer-forensics-gc"
+  },
+  {
+    "program_name": "Computer Science Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Computer Science",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/computer-science-ms"
+  },
+  {
+    "program_name": "Computer Science Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Computer Science",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/computer-science-phd"
+  },
+  {
+    "program_name": "Construction Engineering Management Gc",
+    "school": "School of Engineering",
+    "degree_type": "Master of Arts",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/construction-engineering-management-gc"
+  },
+  {
+    "program_name": "Construction Mengcem",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/construction-mengcem"
+  },
+  {
+    "program_name": "Coordinated Mph Civil Msce",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Civil Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-civil-msce"
+  },
+  {
+    "program_name": "Coordinated Mph Civil Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Civil Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-civil-phd"
+  },
+  {
+    "program_name": "Coordinated Mph Dvm",
+    "school": "Graduate School",
+    "degree_type": "Master of Public Health",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-dvm"
+  },
+  {
+    "program_name": "Coordinated Mph Jd",
+    "school": "Graduate School",
+    "degree_type": "Master of Public Health",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-jd"
+  },
+  {
+    "program_name": "Coordinated Mph Mba",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Business Administration",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-mba"
+  },
+  {
+    "program_name": "Coordinated Mph Md",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Medicine",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-md"
+  },
+  {
+    "program_name": "Coordinated Mph Mpa",
+    "school": "Graduate School",
+    "degree_type": "Master of Public Health",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-mpa"
+  },
+  {
+    "program_name": "Coordinated Mph Msha",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-msha"
+  },
+  {
+    "program_name": "Coordinated Mph Mspas",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-mspas"
+  },
+  {
+    "program_name": "Coordinated Mph Msw",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-msw"
+  },
+  {
+    "program_name": "Coordinated Mph Nutrition Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Nutrition",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-nutrition-ms"
+  },
+  {
+    "program_name": "Coordinated Mph Od",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Optometry",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-od"
+  },
+  {
+    "program_name": "Coordinated Mph Pharmd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Medicine",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-pharmd"
+  },
+  {
+    "program_name": "Coordinated Msph Md",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Medicine",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-msph-md"
+  },
+  {
+    "program_name": "Counseling Ma",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Counseling",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/counseling-ma"
+  },
+  {
+    "program_name": "Criminal Justice Mscj",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Criminal Justice",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/criminal-justice-mscj"
+  },
+  {
+    "program_name": "Cultural Heritage Studies Ma",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cultural-heritage-studies-ma"
+  },
+  {
+    "program_name": "Cultural Resource Mgmt Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cultural-resource-mgmt-gc"
+  },
+  {
+    "program_name": "Cyber Analytics Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cyber-analytics-gc"
+  },
+  {
+    "program_name": "Cyber Security Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cyber-security-ms"
+  },
+  {
+    "program_name": "Cybersecurity Management Gc",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Arts",
+    "department": "Management",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/cybersecurity-management-gc"
+  },
+  {
+    "program_name": "Data Science Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/data-science-ms"
+  },
+  {
+    "program_name": "Dentistry Dmd",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Medicine",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/dentistry-dmd"
+  },
+  {
+    "program_name": "Dentistry Dmd Phd",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/dentistry-dmd-phd"
+  },
+  {
+    "program_name": "Dentistry Ms",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/dentistry-ms"
+  },
+  {
+    "program_name": "Developmental Psych Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/developmental-psych-phd"
+  },
+  {
+    "program_name": "Digital Marketing Gc",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Arts",
+    "department": "Marketing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/digital-marketing-gc"
+  },
+  {
+    "program_name": "Disability Health Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/disability-health-gc"
+  },
+  {
+    "program_name": "Dissemination Implementation Science Health Certificate",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/dissemination-implementation-science-health-certificate"
+  },
+  {
+    "program_name": "Early Childhood Education Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Doctor of Optometry",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/early-childhood-education-maed"
+  },
+  {
+    "program_name": "Early Childhood Education Phd",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/early-childhood-education-phd"
+  },
+  {
+    "program_name": "Edu Leadership Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/edu-leadership-gc"
+  },
+  {
+    "program_name": "Education Eds",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Education Specialist",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/education-eds"
+  },
+  {
+    "program_name": "Educational Leadership Eds",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Education Specialist",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/educational-leadership-eds"
+  },
+  {
+    "program_name": "Educational Leadership Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/educational-leadership-maed"
+  },
+  {
+    "program_name": "Educational Studies In Diverse Populations Phd",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/educational-studies-in-diverse-populations-phd"
+  },
+  {
+    "program_name": "Educational Studies Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/educational-studies-maed"
+  },
+  {
+    "program_name": "Ehs Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ehs-phd"
+  },
+  {
+    "program_name": "Electrical And Computer Engineering Msece",
+    "school": "School of Engineering",
+    "degree_type": "Master of Science",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/electrical-and-computer-engineering-msece"
+  },
+  {
+    "program_name": "Elementary Education Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/elementary-education-maed"
+  },
+  {
+    "program_name": "Engineering Management Msem",
+    "school": "School of Engineering",
+    "degree_type": "Master of Science",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/engineering-management-msem"
+  },
+  {
+    "program_name": "Engineering Meng",
+    "school": "School of Engineering",
+    "degree_type": "Graduate Degree",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/engineering-meng"
+  },
+  {
+    "program_name": "English Ma",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Arts",
+    "department": "English",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/english-ma"
+  },
+  {
+    "program_name": "Entrepreneurship Gc",
+    "school": "Collat School of Business",
+    "degree_type": "Graduate Certificate",
+    "department": "Entrepreneurship",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/entrepreneurship-gc"
+  },
+  {
+    "program_name": "Environmental Engineering Gc",
+    "school": "School of Engineering",
+    "degree_type": "Graduate Certificate",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/environmental-engineering-gc"
+  },
+  {
+    "program_name": "Epidemiology Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/epidemiology-phd"
+  },
+  {
+    "program_name": "Esl Maed",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/esl-maed"
+  },
+  {
+    "program_name": "Esports Mgmt Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/esports-mgmt-gc"
+  },
+  {
+    "program_name": "Forensic Science Msfs",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/forensic-science-msfs"
+  },
+  {
+    "program_name": "Foundations Business Gc",
+    "school": "Collat School of Business",
+    "degree_type": "Graduate Certificate",
+    "department": "Business",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/foundations-business-gc"
+  },
+  {
+    "program_name": "Genetic Counseling Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Counseling",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/genetic-counseling-ms"
+  },
+  {
+    "program_name": "Ggb Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ggb-phd"
+  },
+  {
+    "program_name": "Global Health Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Global Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/global-health-gc"
+  },
+  {
+    "program_name": "Global Health Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Global Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/global-health-ms"
+  },
+  {
+    "program_name": "Health Administration Msha",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "Health Administration",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-administration-msha"
+  },
+  {
+    "program_name": "Health Behavior Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Health Behavior",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-behavior-phd"
+  },
+  {
+    "program_name": "Health Coaching Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Health Coaching",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-coaching-gc"
+  },
+  {
+    "program_name": "Health Education Gc",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-education-gc"
+  },
+  {
+    "program_name": "Health Informatics Mshi",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Health Informatics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-informatics-mshi"
+  },
+  {
+    "program_name": "Health Innovation Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Health Innovation",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-innovation-ms"
+  },
+  {
+    "program_name": "Health Lead Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-lead-gc"
+  },
+  {
+    "program_name": "Health Physics Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Physics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-physics-ms"
+  },
+  {
+    "program_name": "Health Promotion Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Health Promotion",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-promotion-gc"
+  },
+  {
+    "program_name": "Health Sim Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/health-sim-gc"
+  },
+  {
+    "program_name": "Healthcare Innovation Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Healthcare",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/healthcare-innovation-gc"
+  },
+  {
+    "program_name": "Healthcare Leadership Dsc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Science",
+    "department": "Healthcare",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/healthcare-leadership-dsc"
+  },
+  {
+    "program_name": "Healthcare Simulation Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Healthcare",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/healthcare-simulation-ms"
+  },
+  {
+    "program_name": "High School Education Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/high-school-education-maed"
+  },
+  {
+    "program_name": "Higher Admin Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/higher-admin-gc"
+  },
+  {
+    "program_name": "Higher Admin Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/higher-admin-ms"
+  },
+  {
+    "program_name": "History Ma",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Arts",
+    "department": "History",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/history-ma"
+  },
+  {
+    "program_name": "Hqs Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/hqs-gc"
+  },
+  {
+    "program_name": "Hqs Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/hqs-ms"
+  },
+  {
+    "program_name": "Immunology Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Immunology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/immunology-phd"
+  },
+  {
+    "program_name": "Industry Genetics Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/industry-genetics-gc"
+  },
+  {
+    "program_name": "Interdisciplinary Engineering Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/interdisciplinary-engineering-phd"
+  },
+  {
+    "program_name": "Interdisciplinary Grad Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/interdisciplinary-grad-ms"
+  },
+  {
+    "program_name": "Kinesiology Ms",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Science",
+    "department": "Kinesiology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/kinesiology-ms"
+  },
+  {
+    "program_name": "Leadership Development Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/leadership-development-gc"
+  },
+  {
+    "program_name": "Learning Design Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/learning-design-ms"
+  },
+  {
+    "program_name": "Lgbtq Health Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/lgbtq-health-gc"
+  },
+  {
+    "program_name": "Lv Rehabilitation Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/lv-rehabilitation-gc"
+  },
+  {
+    "program_name": "Magnetic Imaging Gc",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/magnetic-imaging-gc"
+  },
+  {
+    "program_name": "Management Information Systems Ms",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Science",
+    "department": "Information Systems",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/management-information-systems-ms"
+  },
+  {
+    "program_name": "Materials Engineering Msmte",
+    "school": "School of Engineering",
+    "degree_type": "Master of Science",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/materials-engineering-msmte"
+  },
+  {
+    "program_name": "Materials Engineering Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/materials-engineering-phd"
+  },
+  {
+    "program_name": "Materials Science Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Materials Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/materials-science-phd"
+  },
+  {
+    "program_name": "Maternal Child Policy Gc",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/maternal-child-policy-gc"
+  },
+  {
+    "program_name": "Mathematics Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Mathematics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mathematics-ms"
+  },
+  {
+    "program_name": "Mba Dmd",
+    "school": "Collat School of Business",
+    "degree_type": "Doctor of Medicine",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mba-dmd"
+  },
+  {
+    "program_name": "Mba Md",
+    "school": "Collat School of Business",
+    "degree_type": "Doctor of Medicine",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mba-md"
+  },
+  {
+    "program_name": "Mba Meng",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Business Administration",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mba-meng"
+  },
+  {
+    "program_name": "Mba Msha",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mba-msha"
+  },
+  {
+    "program_name": "Mba Od",
+    "school": "Collat School of Business",
+    "degree_type": "Doctor of Optometry",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mba-od"
+  },
+  {
+    "program_name": "Mbs Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mbs-ms"
+  },
+  {
+    "program_name": "Mechanical Eng Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Mechanical Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mechanical-eng-phd"
+  },
+  {
+    "program_name": "Mechanical Engineering Msme",
+    "school": "School of Engineering",
+    "degree_type": "Master of Science",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mechanical-engineering-msme"
+  },
+  {
+    "program_name": "Medical Clinical Psychology Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Psychology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/medical-clinical-psychology-phd"
+  },
+  {
+    "program_name": "Medical Sociology Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Sociology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/medical-sociology-phd"
+  },
+  {
+    "program_name": "Medicine Md",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Medicine",
+    "department": "Medicine",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/medicine-md"
+  },
+  {
+    "program_name": "Mfc Counseling Cert",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Degree",
+    "department": "Counseling",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mfc-counseling-cert"
+  },
+  {
+    "program_name": "Microbiology Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Biology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/microbiology-phd"
+  },
+  {
+    "program_name": "Mixed Methods Gc",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Optometry",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mixed-methods-gc"
+  },
+  {
+    "program_name": "Mpa Jd",
+    "school": "Graduate School",
+    "degree_type": "Graduate Degree",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mpa-jd"
+  },
+  {
+    "program_name": "Mpa Mscj",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/mpa-mscj"
+  },
+  {
+    "program_name": "Msha Mshi",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/msha-mshi"
+  },
+  {
+    "program_name": "Multi Approach Trauma Gc",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/multi-approach-trauma-gc"
+  },
+  {
+    "program_name": "Multilingual Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/multilingual-gc"
+  },
+  {
+    "program_name": "Neuroengineering Phd",
+    "school": "School of Engineering",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/neuroengineering-phd"
+  },
+  {
+    "program_name": "Neuroscience Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Neuroscience",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/neuroscience-phd"
+  },
+  {
+    "program_name": "Nonprofit Management Gc",
+    "school": "Collat School of Business",
+    "degree_type": "Master of Arts",
+    "department": "Management",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nonprofit-management-gc"
+  },
+  {
+    "program_name": "Nonprofit Socialwork Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nonprofit-socialwork-gc"
+  },
+  {
+    "program_name": "Nuclear Medicine Technology Ms",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "Medicine",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nuclear-medicine-technology-ms"
+  },
+  {
+    "program_name": "Nurse Executive Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nurse-executive-gc"
+  },
+  {
+    "program_name": "Nurse Lead Population Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nurse-lead-population-gc"
+  },
+  {
+    "program_name": "Nursing Business Msn Mba",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "Business",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nursing-business-msn-mba"
+  },
+  {
+    "program_name": "Nursing Dnp",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Nursing Practice",
+    "department": "Nursing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nursing-dnp"
+  },
+  {
+    "program_name": "Nursing Msn",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "Nursing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nursing-msn"
+  },
+  {
+    "program_name": "Nursing Phd",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Nursing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nursing-phd"
+  },
+  {
+    "program_name": "Nutrition Community Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Nutrition",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nutrition-community-gc"
+  },
+  {
+    "program_name": "Nutrition Sciences Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Nutrition",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nutrition-sciences-ms"
+  },
+  {
+    "program_name": "Nutrition Sciences Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Nutrition",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/nutrition-sciences-phd"
+  },
+  {
+    "program_name": "Occupational Nursing Gc",
+    "school": "School of Health Professions",
+    "degree_type": "Graduate Certificate",
+    "department": "Nursing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/occupational-nursing-gc"
+  },
+  {
+    "program_name": "Occupational Therapy Otd",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Occupational Therapy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/occupational-therapy-otd"
+  },
+  {
+    "program_name": "Optometry Od",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Optometry",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/optometry-od"
+  },
+  {
+    "program_name": "Optometry Vision Science Od Ms",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Optometry",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/optometry-vision-science-od-ms"
+  },
+  {
+    "program_name": "Physical Therapy Dpt",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Physical Therapy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/physical-therapy-dpt"
+  },
+  {
+    "program_name": "Physician Associate Mspas",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/physician-associate-mspas"
+  },
+  {
+    "program_name": "Physics Ms",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Science",
+    "department": "Physics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/physics-ms"
+  },
+  {
+    "program_name": "Physics Phd",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Doctor of Philosophy",
+    "department": "Physics",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/physics-phd"
+  },
+  {
+    "program_name": "Ppp Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ppp-phd"
+  },
+  {
+    "program_name": "Pt Underserved Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/pt-underserved-gc"
+  },
+  {
+    "program_name": "Public Administration Mpa",
+    "school": "Graduate School",
+    "degree_type": "Graduate Degree",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/public-administration-mpa"
+  },
+  {
+    "program_name": "Public Health Drph",
+    "school": "School of Health Professions",
+    "degree_type": "Doctor of Public Health",
+    "department": "Public Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/public-health-drph"
+  },
+  {
+    "program_name": "Public Health Gc",
+    "school": "School of Health Professions",
+    "degree_type": "Graduate Certificate",
+    "department": "Public Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/public-health-gc"
+  },
+  {
+    "program_name": "Public Health Mph",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Public Health",
+    "department": "Public Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/public-health-mph"
+  },
+  {
+    "program_name": "Public Health Msph",
+    "school": "School of Health Professions",
+    "degree_type": "Master of Science",
+    "department": "Public Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/public-health-msph"
+  },
+  {
+    "program_name": "Public Mgmt Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/public-mgmt-gc"
+  },
+  {
+    "program_name": "Rehabilitation Science Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/rehabilitation-science-phd"
+  },
+  {
+    "program_name": "Research Communication Gc",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Graduate Certificate",
+    "department": "Communication",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/research-communication-gc"
+  },
+  {
+    "program_name": "Research Lab Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/research-lab-gc"
+  },
+  {
+    "program_name": "School Psych Eds",
+    "school": "Graduate School",
+    "degree_type": "Education Specialist",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/school-psych-eds"
+  },
+  {
+    "program_name": "School Psych Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/school-psych-gc"
+  },
+  {
+    "program_name": "School Psychometry Maed",
+    "school": "Graduate School",
+    "degree_type": "Master of Arts",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/school-psychometry-maed"
+  },
+  {
+    "program_name": "Science Policy Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/science-policy-gc"
+  },
+  {
+    "program_name": "Social Behavioral Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/social-behavioral-gc"
+  },
+  {
+    "program_name": "Sociology Ma",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Sociology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/sociology-ma"
+  },
+  {
+    "program_name": "Special Education Collaborative Teacher Maed",
+    "school": "School of Education and Human Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/special-education-collaborative-teacher-maed"
+  },
+  {
+    "program_name": "Structural Engineering Gc",
+    "school": "School of Engineering",
+    "degree_type": "Graduate Certificate",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/structural-engineering-gc"
+  },
+  {
+    "program_name": "Supporting Exceptionalities Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/supporting-exceptionalities-gc"
+  },
+  {
+    "program_name": "Sustainable Engineering Gc",
+    "school": "School of Engineering",
+    "degree_type": "Graduate Certificate",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/sustainable-engineering-gc"
+  },
+  {
+    "program_name": "Teal Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/teal-gc"
+  },
+  {
+    "program_name": "Tesol Eds",
+    "school": "Graduate School",
+    "degree_type": "Education Specialist",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/tesol-eds"
+  },
+  {
+    "program_name": "Tms Gc",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/tms-gc"
+  },
+  {
+    "program_name": "Translation Biomed Innov Gc",
+    "school": "Graduate School",
+    "degree_type": "Graduate Certificate",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/translation-biomed-innov-gc"
+  },
+  {
+    "program_name": "Transportation Engineering Gc",
+    "school": "School of Engineering",
+    "degree_type": "Graduate Certificate",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/transportation-engineering-gc"
+  },
+  {
+    "program_name": "Vision Science Ms",
+    "school": "Graduate School",
+    "degree_type": "Master of Science",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/vision-science-ms"
+  },
+  {
+    "program_name": "Vision Science Phd",
+    "school": "Graduate School",
+    "degree_type": "Doctor of Philosophy",
+    "department": "General Studies",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/vision-science-phd"
+  },
+  {
+    "program_name": "Psychology Ma",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Master of Arts",
+    "department": "Psychology",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/psychology-ma"
+  },
+  {
+    "program_name": "Academic Minors",
+    "school": "College of Arts and Sciences",
+    "degree_type": "Minor",
+    "department": "Various",
+    "level": "Undergraduate",
+    "url": "https://www.uab.edu/degrees/minors"
+  },
+  {
+    "program_name": "AI Nursing GC",
+    "school": "School of Nursing",
+    "degree_type": "Graduate Certificate",
+    "department": "Nursing",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/ai-nursing-gc"
+  },
+  {
+    "program_name": "Climate Health GC",
+    "school": "School of Public Health",
+    "degree_type": "Graduate Certificate",
+    "department": "Public Health",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/climate-health-gc"
+  },
+  {
+    "program_name": "Coordinated MPH DPT",
+    "school": "School of Health Professions",
+    "degree_type": "Dual Degree",
+    "department": "Physical Therapy",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/coordinated-mph-dpt"
+  },
+  {
+    "program_name": "Data Driven Modeling Cert",
+    "school": "School of Engineering",
+    "degree_type": "Certificate",
+    "department": "Engineering",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/data-driven-modeling-cert"
+  },
+  {
+    "program_name": "Teaching Learning GC",
+    "school": "School of Education",
+    "degree_type": "Graduate Certificate",
+    "department": "Education",
+    "level": "Graduate",
+    "url": "https://www.uab.edu/degrees/graduate/teaching-learning-gc"
+  }
+]

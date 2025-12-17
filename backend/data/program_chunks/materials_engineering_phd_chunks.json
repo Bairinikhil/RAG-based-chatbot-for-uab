@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "materials_engineering_phd",
+  "program_name": "Materials Engineering Phd",
+  "department_name": "Engineering",
+  "school": "School of Engineering",
+  "degree_type": "Doctor of Philosophy",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Materials Engineering Phd\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/materials-engineering-phd\nSchool of Engineering\n# Materials Engineering\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Vinoy Thomas\n[vthomas@uab.edu](mailto:vthomas@uab.edu)\n## About the Program\nYou're passionate about materials innovation, research, and technological advancement, and ready for a career as a developer, consultant, or other position. When you earn a doctorate in materials engineering, you have an opportunity to fulfill those passions.\nTo help enhance your education, we want you to have as many research opportunities as possible. That's why we're going to give you hands-on experience working with metals and alloys, polymers and composites, ceramics and glass, and more. Your curriculum will vary slightly depending on whether you hold a master's or a bachelor's, and you may study topics such as metallurgical engineering, physical behavior of materials, thermodynamics, and mechanical behavior of materials before you graduate. Among your other requirements are dissertation research, seminars, a defense, and various electives.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Vinoy Thomas\n[vthomas@uab.edu](mailto:vthomas@uab.edu)\n# Ph.D., Materials\n# Ph.D. in Materials Engineering\n![Student looking at models on a computer screen.](https://www.uab.edu/engineering/mme/images/images/graduate/student-at-computer.jpg)The Ph.D. in Materials Engineering is a diverse degree that is designed to help prepare students for careers in advanced materials engineering research in a variety of industrial and academic settings. The program is a joint program between the UAB Department of Materials Science and Engineering and the University of Alabama Department of Metallurgical and Materials Engineering.\nThe program includes separate Ph.D. tracks for students entering with baccalaureate degrees and for students entering with master’s degrees in materials or metallurgical engineering (or a similarly named program). Students whose degrees are in other engineering fields or in the physical sciences may also be accepted, provided they demonstrate competence in fields of study that emphasize the interrelationships among structure, processing, performance, and properties of materials.\n## Course Catalog\nA complete list of program requirements and courses is available in the [UAB Graduate Catalog](http://catalog.uab.edu/graduate/schoolofengineering/materialsscienceandengineering/).\n* * *\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "materials_engineering_phd_program_website.txt",
+    "materials_engineering_phd_main_page.md"
+  ]
+}

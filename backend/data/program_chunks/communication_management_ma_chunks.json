@@ -1,0 +1,22 @@
+{
+  "program_abbreviation": "communication_management_ma",
+  "program_name": "Communication Management Ma",
+  "department_name": "Communication",
+  "school": "Collat School of Business",
+  "degree_type": "Master of Arts",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Communication Management Ma\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/communication-management-ma\nCollege of Arts & Sciences\n# Communication Management\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Jonathan Amsbary\n[amsbary@uab.edu](mailto:amsbary@uab.edu)\n## About the Program\nAre you ready to take your expertise in communications to the next level? Whether you're in the profession already, or just finished undergrad, our program can give you that extra oomph you need for success in PR, broadcasting, advertising, and other fields.\nWhen we say extra oomph, we mean it. We have one of the top programs in the country, thanks to our impressive number of faculty publications, which is an indicator of the quality of our research and scholarship. You'll complete 36 hours of coursework with classes such as Source Credibility, Message Construction, Political Communication, Health and Med Communication, Small Group Dynamics, and Nonverbal Communication. You'll also complete one of two plans. Plan I (thesis option) is better if you're interested in working toward a PhD or pursuing a career in research. Plan II (non-thesis option) requires that you complete a project about what you've learned in the program. Finally, we'll do all of this on nights and weekends so you can fit school into your already busy schedule.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Jonathan Amsbary\n[amsbary@uab.edu](mailto:amsbary@uab.edu)\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "communication_management_ma_main_page.md"
+  ]
+}

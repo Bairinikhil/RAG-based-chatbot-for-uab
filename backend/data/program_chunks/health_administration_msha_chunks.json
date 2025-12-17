@@ -1,0 +1,22 @@
+{
+  "program_abbreviation": "health_administration_msha",
+  "program_name": "Health Administration Msha",
+  "department_name": "Health Administration",
+  "school": "School of Health Professions",
+  "degree_type": "Master of Science",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Health Administration Msha\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/health-administration-msha\nSchool of Health Professions\n# Health Administration, MSHA\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Directors\nDr. J'Aime Jennings\nConcentration: Residential\n[jcjennings@uab.edu](mailto:jcjennings@uab.edu)\nDr. Steven Howard\nConcentration: Executive\n[showard3@uab.edu](mailto:showard3@uab.edu)\nPam Armstrong, Program Coordinator\nConcentration: Residential and Executive\n[parmstrong@uab.edu](mailto:parmstrong@uab.edu)\nTaylor Bryniarski, Program Manager\nConcentration: Residential and Executive\n[tabrynia@uab.edu](mailto:tabrynia@uab.edu)\n## About the Program\nTo succeed, healthcare providers need quality administrators like you to keep their organizations running as smoothly as possible. We can teach you the skills you need for leadership positions at hospitals, health systems, physician group practices, long-term care facilities, consulting firms, and insurance companies.\nThis program is offered in two formats – executive and residential – and your previous experience will determine which format is better for you. If you're a seasoned health professional, you'll enroll in the executive format, where we'll build on your years of experience and help prepare you for a senior management position through a combination of distance-learning courses and on-campus sessions. If you're looking to make the transition to health administration, you'll do the residential format, where you'll learn about the fundamentals of the field as well as get various networking opportunities. Although each format has slightly different curriculums, there are some similarities. Your courses will include health policy, strategic planning, health law, organization theory, economics, and marketing. The executive track offers a capstone experience, while the residential requires that you complete an administrative residency, internship, and capstone course.\n### Concentrations\n- [Health Administration - Executive](https://www.uab.edu/shp/hsa/graduate/executive-msha)\n- [Health Administration - Residential](https://www.uab.edu/shp/hsa/graduate/residential-msha)\n## Delivery Method\n### Residential Concentration — On-Campus\nThe Residential format of this program delivers most of its content via on-campus, in-person meetings.\n### Executive Concentration — Blended\nThe Executive format of this program delivers most of its content online with one on-campus meeting each semester. Please contact the Program Director or Program Coordinator for more information about on-campus requirements.\n[## Program Directors\nDr. J'Aime Jennings\nConcentration: Residential\n[jcjennings@uab.edu](mailto:jcjennings@uab.edu)\nDr. Steven Howard\nConcentration: Executive\n[showard3@uab.edu](mailto:showard3@uab.edu)\nPam Armstrong, Program Coordinator\nConcentration: Residential and Executive\n[parmstrong@uab.edu](mailto:parmstrong@uab.edu)\nTaylor Bryniarski, Program Manager\nConcentration: Residential and Executive\n[tabrynia@uab.edu](mailto:tabrynia@uab.edu)\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "health_administration_msha_main_page.md"
+  ]
+}

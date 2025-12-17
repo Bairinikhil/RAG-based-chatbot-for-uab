@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "digital_marketing_gc",
+  "program_name": "Digital Marketing Gc",
+  "department_name": "Marketing",
+  "school": "Collat School of Business",
+  "degree_type": "Master of Arts",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Digital Marketing Gc\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/digital-marketing-gc\nCollat School of Business\n# Digital Marketing\nDegree Type:\nGraduate Certificate\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nBrandon Cox, Graduate Recruiter\n[bcc@uab.edu](mailto:bcc@uab.edu)\n## About the Program\nWhether you’re a seasoned marketing professional or just getting started in your career, this graduate certificate can provide you with the tools and tactics to effectively reach consumers online and keep them coming back for more.\nThe Graduate Certificate in Digital Marketing explores the world of Integrated Marketing Communications (IMC), which combines digital marketing tools with traditional marketing methods to create a seamless consumer experience across media channels—both online and in person. Deepen your digital marketing knowledge in only five courses that cover a range of topics such as Digital Marketing Strategy, Marketing Analysis and Decision Making, or Data Science for Business. Plus, you can gain real-world experience by working directly with local organizations in a practicum course designed to develop and manage digital marketing strategies.\n## Delivery Method\n### 100% Online\nThis program can be taken completely online.\n[## Program Director\nBrandon Cox, Graduate Recruiter\n[bcc@uab.edu](mailto:bcc@uab.edu)\n[Collat School of Business](https://www.uab.edu/business/home)\n[Apply](https://www.uab.edu/business/home/admissions)\nVisit\n[Contact](https://www.uab.edu/business/home/about/contact-us)\n[Give](https://www.uab.edu/business/home/about/give)\n# Digital Marketing Certificate\nGraduate Certificate\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "digital_marketing_gc_program_website.txt",
+    "digital_marketing_gc_main_page.md"
+  ]
+}

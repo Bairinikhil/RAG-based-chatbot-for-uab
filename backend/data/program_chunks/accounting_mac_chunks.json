@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "accounting_mac",
+  "program_name": "Accounting Mac",
+  "department_name": "Accounting",
+  "school": "Collat School of Business",
+  "degree_type": "Master of Arts",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Accounting Mac\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/accounting-mac\nCollat School of Business\n# Accounting\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Tom Vermeer\n[tvermeer@uab.edu](mailto:tvermeer@uab.edu)\n## About the Program\nBehind every successful business is a great accountant—and we can give you the skills you need to become that numbers guru. With your master's in accounting, you could go on to be a teacher, auditor, financial analyst, CFO, or, of course, an accountant.\nAs a matter of fact, whether you're just entering this industry or looking to advance your career, our program is perfect for you. Why? Well, for starters, we designed it with professionals in mind. That means evening and online classes for your convenience. Your curriculum will cover material such as business law, corporate governance, and financial accounting research. Plus, with elective options that include Security Management, Digital Forensics, and Data Science for Business, we have everything you need for a well-rounded education. Best of all, you'll get plenty of networking opportunities, internship opportunities, and hands-on learning experiences within Birmingham and beyond. Finally, upon graduation, you will have taken the courses to help you prepare for positions at accounting firms both locally and nationally, as well as at corporations and government entities.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n### 100% Online\nThis program is offered in the following formats:\nSelf-Paced \\- Pursue your degree at your own pace by\nselecting from course offerings in our new state-of-the-art facility and/or online.\nEnhanced Online with Premium \\- Earn your degree 100% online with a structured program offering guaranteed seating and\naccelerated courses with a tuition premium.\n[## Program Director\nDr. Tom Vermeer\n[tvermeer@uab.edu](mailto:tvermeer@uab.edu)\n[Collat School of Business](https://www.uab.edu/business/home)\n[Apply](https://www.uab.edu/business/home/admissions)\nVisit\n[Contact](https://www.uab.edu/business/home/about/contact-us)\n[Give](https://www.uab.edu/business/home/about/give)\n# Master of Accounting (MAc) Program\nGraduate Degree\nResources\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "accounting_mac_program_website.txt",
+    "accounting_mac_main_page.md"
+  ]
+}

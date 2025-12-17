@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "computer_engineering_phd",
+  "program_name": "Computer Engineering Phd",
+  "department_name": "Engineering",
+  "school": "School of Engineering",
+  "degree_type": "Doctor of Philosophy",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Computer Engineering Phd\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/computer-engineering-phd\nSchool of Engineering\n# Computer Engineering\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Arie Nakhmani\n[anry@uab.edu](mailto:anry@uab.edu)\n## About the Program\nBecome a wizard in computer software, wireless communications, power systems, signals and image processing, and more. Our joint program with the University of Alabama at Huntsville can prepare you for research careers in both industry and academia.\nTo give you the training you need for your specific goals, you will work with our graduate committee to design your curriculum and choose your research topic before you take your first class. Then, once you begin, your courses will cover topics like computer engineering, mathematics, theoretical or formal methods, electrical engineering, and other supportive fields. You'll take classes such as Wireless Communications, Medical Imaging Processing, Control Systems, Computer Architecture, Industrial Power Systems, and Information Theory and Coding. Finally, you'll complete a comprehensive exam, conduct and defend extensive dissertation research, and present your findings.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Arie Nakhmani\n[anry@uab.edu](mailto:anry@uab.edu)\n[Apply Now](https://www.uab.edu/gradadmissions/online-application)\n# Ph.D. Program\n![\"\"](https://www.uab.edu/engineering/ece/images/photos/inline/graduate-programs.jpg)The Ph.D. in Computer Engineering program provides further opportunities for advanced study and research in Electrical and Computer Engineering-related fields. Our diverse areas of specialization span analog and digital custom integrated systems, computer software, signal and image processing, and power systems. Become a wizard in computer software, wireless communications, power systems, signals and image processing, and more. Our joint program with the University of Alabama at Huntsville can prepare you for research careers in both industry and academia.\nTo give you the training you need for your specific goals, you will work with our graduate committee to design your curriculum and choose your research topic before you take your first class. Then, once you begin, your courses will cover topics like computer engineering, mathematics, theoretical or formal methods, electrical engineering, and other supportive fields. You'll take classes such as Wireless Communications, Medical Imaging Processing, Control Systems, Computer Architecture, Industrial Power Systems, and Information Theory and Coding. Finally, you'll complete a comprehensive exam, conduct and defend extensive dissertation research, and present your findings.\nFellowships and/or assistantships may be available for well-qualified students admitted into the Ph.D. program.\n## Admission\nAdmission requirements for the Ph.D. in Computer Engineering program are available in the [UAB Graduate Catalog](http://catalog.uab.edu/graduate/schoolofengineering/electricalandcomputer/computerengineering/). These requirements are in addition to the [UAB Graduate School admission requirements](https://www.uab.edu/graduate/admissions),\n## Courses\nA list of graduate courses are available on the [Computer Engineering Graduate Catalog page](http://catalog.uab.edu/graduate/schoolofengineering/electricalandcomputer/computerengineering/#courseinventory). See the [University of Alabama at Huntsville (UAH) graduate catalog](https://catalog.uah.edu/grad/course-descriptions/cpe/) for doctoral courses at that university.\n## Questions?\nFor more information on the graduate program, contact Leon Jololian, Associate Chair of Electrical and Computer Engineering and director of the graduate program, at (205) 975-0391 or [leon@uab.edu](mailto:leon@uab.edu).\n[Apply Now](https://www.uab.edu/gradadmissions/online-application)\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "computer_engineering_phd_program_website.txt",
+    "computer_engineering_phd_main_page.md"
+  ]
+}

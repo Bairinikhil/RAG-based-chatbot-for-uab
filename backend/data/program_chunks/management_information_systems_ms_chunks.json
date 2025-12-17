@@ -1,0 +1,24 @@
+{
+  "program_abbreviation": "management_information_systems_ms",
+  "program_name": "Management Information Systems Ms",
+  "department_name": "Information Systems",
+  "school": "Collat School of Business",
+  "degree_type": "Master of Science",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Management Information Systems Ms\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/management-information-systems-ms\nCollat School of Business\n# Management Information Systems\nDegree Type:\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Barbara Wech\n[bawech@uab.edu](mailto:bawech@uab.edu)\n## About the Program\nYou're a techie, but you want the business skills you need to take your career to another level? Then you've\ncome to the right place. Our MS in Management Information Systems offers advanced skills training in project\nmanagement, cybersecurity, business analytics, and other emerging technologies.\nIn fact, we put together a curriculum to cover the skills you need in the real world. Your courses will\ninclude IT and Business Strategy, IT Trends and Emerging Technologies, Technology Planning and Capital\nBudgeting, Cyber Attacks and Threat Mitigation, and much more. You will be able to learn about business,\ntechnology, leadership, and communication as it relates to tech careers. We specifically designed the\nprogram for every level of IT professional – and put it all online so you can earn your degree while still\nworking.\n### Concentrations\n- Business Analytics with Information Technology\n- Cyber Security Management\n## Delivery Method\nEarn your degree 100% online with a structured program offering guaranteed seating and accelerated courses with a tuition premium.\n[## Program Director\nDr. Barbara Wech\n[bawech@uab.edu](mailto:bawech@uab.edu)\n[Collat School of Business](https://www.uab.edu/business/home)\n[Apply](https://www.uab.edu/business/home/admissions)\nVisit\n[Contact](https://www.uab.edu/business/home/about/contact-us)\n[Give](https://www.uab.edu/business/home/about/give)\n# Online Master’s in Management Information Systems\nUAB Online\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page",
+        "program_website"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "management_information_systems_ms_program_website.txt",
+    "management_information_systems_ms_main_page.md"
+  ]
+}

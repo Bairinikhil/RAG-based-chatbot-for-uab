@@ -1,0 +1,22 @@
+{
+  "program_abbreviation": "construction_engineering_management_gc",
+  "program_name": "Construction Engineering Management Gc",
+  "department_name": "Engineering",
+  "school": "School of Engineering",
+  "degree_type": "Master of Arts",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Construction Engineering Management Gc\n\n## Program Overview\n\n# Main Program Page: https://www.uab.edu/degrees/graduate/construction-engineering-management-gc\nSchool of Engineering\n# Construction Engineering Management, Graduate Certificate\nDegree Type:\nGraduate Certificate\n[Graduate School](https://www.uab.edu/graduate/) [Apply](https://cloud.reach.uab.edu/graduate-application) [Financing Your Degree](https://www.uab.edu/cost-aid/types-of-aid/loans)\n[## Program Director\nDr. Nasim Uddin\n[nuddin@uab.edu](mailto:nuddin@uab.edu)\n## About the Program\nIt takes more than engineering skills to manage a construction site—it takes a keen understanding of your workers' needs and processes, as well as a strong business background. Our certificate in construction engineering management focuses on these and other leadership skills.\nBecause you'll need a broad set of skills on the job, we built a well-rounded program. That way, you'll be ready to deal with the wide variety of duties your job will demand. For instance, among the five courses you'll be required to complete is Construction Project Management. This class covers project planning, scheduling, estimating, budgeting, and more. You'll also take four elective classes such as Engineering Entrepreneurship, Construction Methods, Advanced Topics in Engineering Law, and other options. In the end, you'll not only have your certificate, but you'll be able to apply up to 12 credit hours toward an MS in Civil Engineering here at UAB if you choose.\n## Delivery Methods\n### On-Campus\nThis program delivers most of its content via on-campus, in-person meetings.\n[## Program Director\nDr. Nasim Uddin\n[nuddin@uab.edu](mailto:nuddin@uab.edu)\n\n",
+      "priority": 1,
+      "source_sections": [
+        "main_page"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "construction_engineering_management_gc_main_page.md"
+  ]
+}

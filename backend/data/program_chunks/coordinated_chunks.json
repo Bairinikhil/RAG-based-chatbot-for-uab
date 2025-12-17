@@ -1,0 +1,22 @@
+{
+  "program_abbreviation": "coordinated",
+  "program_name": "Coordinated Mph Civil Msce",
+  "department_name": "Civil Engineering",
+  "school": "College of Arts and Sciences",
+  "degree_type": "Master of Science",
+  "level": "Graduate",
+  "chunks": [
+    {
+      "info_type": "overview_admission",
+      "chunk_text": "# Coordinated Mph Civil Msce\n\n## Program Overview\n\nThis coordinated Master of Business Administration and Master of Public Health degree program is offered through the\nUAB Collat School of Business\nand the\nUAB School of Public Health\n. MPH focus courses may be customized to the experience and needs of the student.\nThe coordinated MBA/MPH program results in two advanced degrees providing students with skills necessary for a broad range of positions in health care management, entrepreneurship, and leadership. MPH coursework typically includes courses in the core public health disciplines as well as health economics, finance, accounting, management, strategic planning, health insurance, and health policy.\nCurriculum\nA total of 60 credit hours of coursework are required for the coordinated MBA/MPH. Courses include the Public Health Core plus 7 hours of Public Health elective courses as well 10 MBA courses. Normally, 42 credit hours are required for the MPH and 36 credit hours for the MBA. However, because of the coordinated nature of the degree, 12 credit hours from the MBA curriculum are credited to the MPH and six hours from the MPH are credited to the MBA. Students may complete either degree programs totally online, in class, or through a mix of online and in class experiences.\nRequirements\nHours\nMPH Core Requirements: (14 hours)\nPUH 601\nThis is Public Health\nPUH 602\nCommunity Assessment\nPUH 603\nQuantitative Methods in Public Health\nPUH 604\nPrograms and Policies\nPUH 605\nPublic Health Management and Evaluation\nPUH 606\nLeadership for Evidence-Based Public Health\nMPH Degree Requirement: (1 hour)\nENH 690\nEnvironmental Health Perspectives\nPopulation Health Degree Requirement: (3 hours)\nPUH 610\nPopulation Health\nApplied Practice Experience: (3 hours)\nPUH 688\nPublic Health Internship\nIntegrative Learning Experience: (2 hours)\nHB 689\nHealth Behavior Integrative Learning Experience\nENH 689\nEnvironmental Health Sciences Integrative Learning Experience\nEPI 689\nEpidemiology Integrative Learning Experience\nHPO 689\nHPO Integrative Learning Experience\nApproved Electives (7 hours):\nSelect 7 credit hours of Public Health 600-699 level courses\nTotal SOPH Hours:\nShared Hours from MBA Program Curriculum: (12 hours)\nMBA 611\nMBA 630\nMBA 640\nMBA 650\nTotal Hours Earned for MPH Degree:\nRemaining MBA Program Requirements (18 hours)\nTotal Hours for both MPH/MBA Degrees:\n\n",
+      "priority": 1,
+      "source_sections": [
+        "mph_mba_overview_section"
+      ]
+    }
+  ],
+  "total_chunks": 1,
+  "source_files": [
+    "coordinated_mph_mba_overview_section.txt"
+  ]
+}
